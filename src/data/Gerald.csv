@@ -1,0 +1,28 @@
+Intersection num,Recognized word
+1,trattoria
+2,sushi
+3,designer
+4,green grocery
+5,kebab
+6,fishmarket
+7,traffic sign
+6,fish market
+7,traffic sign
+1,trattoria
+2,traffic sign
+1,trattoria
+10,green grocery
+11,tobacco
+2,sushi
+3,designer
+13,restaurant
+12,bar
+11,tobacco
+2,sushi
+3,designer
+4,green grocery
+14,graffiti
+13,restaurant
+3,designer
+2,sushi
+1,trattoria

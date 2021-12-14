@@ -1,0 +1,28 @@
+Intersection num,Recognized word
+1,trattoria
+2,arch
+3,traffic sign
+4,square
+5,clothes
+6,fishmarket
+7,traffic sign
+6,fishmarket
+7,traffic sign
+1,trattoria
+2,arch
+1,atm
+10,small square
+11,tobacco
+2,arch
+3,traffic sign
+13,antique door
+12,bar
+11,tobacco
+2,arch
+3,traffic sign
+4,square
+14,shrine
+13,antique door
+3,traffic sign
+2,arch
+1,trattoria

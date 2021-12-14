@@ -12,7 +12,7 @@ array1=array1
 array1[:,2]=array1[:,2]-array1[0][2]
 
 
-array2=np.load("/home/mike/Output/Corrected/Francesco(1).txt/arrays/06.12.2021 22:01:42.npy")  
+array2=np.load("array2.npy")  
 array2[:,2]=array2[:,2]-array2[0][2]
 
 # %%
@@ -56,7 +56,7 @@ for eachS in smaller_array:
 
 np.save("result",diff_arr)
 
-print("mean error is", round(np.mean(np.array(diff_arr)[:,0]),3))
+print("mean error with time is", round(np.mean(np.array(diff_arr)[:,0]),3))
 
 # %%
 
@@ -66,4 +66,29 @@ fig2=plt.figure(figsize=(20, 20), dpi=200)
 ax1 = fig2.add_subplot(111)
 ax1.scatter(diff_arr[:,1],diff_arr[:,0],s=10, c='b', marker="o", label='error')
 plt.show()
+# %%
+# mean dist with distance
+dist_arr=[]
+for eachS in smaller_array:
+    smallest_dist=100000.0
+    for eachB in bigger_array:
+        dist=math.hypot(eachS[0]-eachB[0],eachS[1]-eachB[1])
+        if dist<smallest_dist:
+            smallest_dist=dist
+            bigger_id=eachB
+
+    dist_arr.append([smallest_dist,round(eachS[2]-smaller_array[0][2],3)])
+
+
+print("mean error with distance is", round(np.mean(np.array(dist_arr)[:,0]),3))
+
+# %%
+
+# Post-processing 3.0
+dist_arr=np.array(dist_arr)
+fig3=plt.figure(figsize=(20, 20), dpi=200)
+ax1 = fig3.add_subplot(111)
+ax1.scatter(dist_arr[:,1],dist_arr[:,0],s=10, c='b', marker="o", label='error')
+plt.show()
+
 # %%

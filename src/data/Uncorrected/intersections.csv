@@ -1,0 +1,128 @@
+Stefano Ferrazio,,,,Mattea pagano,,,,,,,"Thanaphon Leonardi
+",
+Intersection num,Recognized word,,,Intersection num,Recognized word,,,,,,Intersection num,Recognized word
+1,Trattoria,,,1,traffic sign,,,,,,1,trattoria
+2,arch,,,2,crowded,,,,,,2,arch
+3,graffiti,,,3,graffiti,,,,,,3,traffic sign
+4,square,,,4,bar,,,,,,4,square
+5,fish shop,,,5,shop,,,,,,5,clothes
+6,arch,,,6,fishmarket,,,,,,6,fishmarket
+7,oval ,,,7,traffic sign,,,,,,7,traffic sign
+6,arch,,,6,fishmarket,,,,,,6,fishmarket
+7,oval ,,,7,traffic sign,,,,,,7,traffic sign
+1,Trattoria,,,1,traffic sign,,,,,,1,trattoria
+2,arch,,,2,crowded,,,,,,2,arch
+1,Trattoria,,,1,traffic sign,,,,,,1,atm
+10,icona,,,10,green grocery,,,,,,10,small square
+11,tabachi,,,11,green grocery,,,,,,11,tobacco
+2,arch,,,2,crowded,,,,,,2,arch
+3,graffiti,,,3,graffiti,,,,,,3,traffic sign
+13,telephone sign,,,13,restaurant,,,,,,13,antique door
+12,cafe,,,12,bar,,,,,,12,bar
+11,tabachi,,,11,green grocery,,,,,,11,tobacco
+2,arch,,,2,crowded,,,,,,2,arch
+3,graffiti,,,3,graffiti,,,,,,3,traffic sign
+4,square,,,4,bar,,,,,,4,square
+14,drugstore,,,14,shop,,,,,,14,shrine
+13,telephone sign,,,13,restaurant,,,,,,13,antique door
+3,graffiti,,,3,graffiti,,,,,,3,traffic sign
+2,arch,,,2,crowded,,,,,,2,arch
+1,Trattoria,,,1,traffic sign,,,,,,1,trattoria
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Ariel,,,,Francesco,,,,,,,Francesco(1),
+Intersection num,Recognized word,,,Intersection num,Recognized word,,,,,,Intersection num,Recognized word
+1,traffic sign,,,1,trattoria,,,,,,1,traffic sign
+2,black door,,,2,shop,,,,,,2,shop
+3,fraffiti,,,3,street,,,,,,3,trattoria
+4,altarino,,,4,green grocery,,,,,,4,museum
+5,shop,,,5,kebab,,,,,,5,kebab
+6,traffic sign,,,6,fishmarket,,,,,,6,shop
+7,blue door,,,7,shop,,,,,,7,traffic sign
+6,traffic sign,,,6,fishmarket,,,,,,6,shop
+7,blue door,,,7,shop,,,,,,7,traffic sign
+1,traffic sign,,,1,trattoria,,,,,,1,traffic sign
+2,black door ,,,2,street,,,,,,2,shop
+1,traffic sign,,,1,trattoria,,,,,,1,traffic sign
+10,square,,,10,small square,,,,,,10,small square
+11,toy shop,,,11,tobacco,,,,,,11,tobacco
+2,black soor,,,2,street,,,,,,2,shop
+3,fgraffiti,,,3,shop,,,,,,3,designer
+13,black door,,,13,street,,,,,,13,door
+12,coffee shop,,,12,bar,,,,,,12,bar
+11,toy sop,,,11,tobacco,,,,,,11,tobacco
+2,black door ,,,2,street,,,,,,2,shop
+3,graffiti,,,3,shop,,,,,,3,designer
+4,altarino,,,4,green grocery,,,,,,4,museum
+14,graffiti,,,14,grocery,,,,,,14,graffiti
+13,black door ,,,13,street,,,,,,13,door
+3,graffiti,,,3,shop,,,,,,3,designer
+2,black door,,,2,street,,,,,,2,shop
+1,traffic sign,,,1,trattoria,,,,,,1,traffic sign
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Anastasiia,,,,Gerald,,,,,,,Amy,
+Intersection num,Recognized word,,,Intersection num,Recognized word,,,,,,Intersection num,Recognized word
+1,Graffiti,,,1,trattoria,,,,,,1,trattoria
+2,shop,,,2,sushi,,,,,,2,shop
+3,Design shop,,,3,designer,,,,,,3,designer
+4,Small square,,,4,green grocery,,,,,,4,green grocery
+5,Kebab,,,5,kebab,,,,,,5,clothes
+6,fish shop,,,6,fishmarket,,,,,,6,fishmarket
+7,Lights,,,7,traffic sign,,,,,,7,shop
+6,fish shop,,,6,fish market,,,,,,6,fishmarket
+7,Lights,,,7,traffic sign,,,,,,7,shop
+1,Graffiti,,,1,trattoria,,,,,,1,trattoria
+2,Shop,,,2,traffic sign,,,,,,2,shop
+1,Graffiti,,,1,trattoria,,,,,,1,trattoria
+10,Small square,,,10,green grocery,,,,,,10,square
+11,tobacco shop,,,11,tobacco,,,,,,11,tobacco
+2,shop,,,2,sushi,,,,,,2,shop
+3,interior design shop,,,3,designer,,,,,,3,designer
+13,sign,,,13,restaurant,,,,,,13,restaurant
+12,coffee shop,,,12,bar,,,,,,12,bar
+11,store,,,11,tobacco,,,,,,11,tobacco
+2,shop,,,2,sushi,,,,,,2,shop
+3,interior design shop,,,3,designer,,,,,,3,designer
+4,small square,,,4,green grocery,,,,,,4,green grocery
+14,pharmacy,,,14,graffiti,,,,,,14,shop
+13,coffee shop,,,13,restaurant,,,,,,13,restaurant
+3,interior design,,,3,designer,,,,,,3,designer
+2,shop,,,2,sushi,,,,,,2,shop
+1,graffiti,,,1,trattoria,,,,,,1,trattoria
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Aliya,,,,Esra,,,,,,,Sofia,
+Intersection num,Recognized word,,,Intersection num,Recognized word,,,,,,Intersection num,Recognized word
+1,sign,,,1,trattoria,,,,,,1,bar
+2,event agecy,,,2,shop,,,,,,2,shop
+3,sign,,,3,graffiti,,,,,,3,traffic sign
+4,vegetable shop,,,4,grocery,,,,,,4,green grocery
+5,fish store,,,5,fishmarket,,,,,,5,people
+6,lounge bar,,,6,traffic sign,,,,,,6,fishmarket
+7,arch,,,7,graffiti,,,,,,7,door
+6,lounge bar,,,6,traffic sign,,,,,,6,fishmarket
+7,arch,,,7,graffiti,,,,,,7,door
+1,bakery,,,1,trattoria,,,,,,1,traffic sign
+2,event agency,,,2,shop,,,,,,2,shop
+1,bakery,,,1,trattoria,,,,,,1,graffiti
+10,vegetable shop,,,10,grocery,,,,,,10,graffiti
+11,tabacheria,,,11,shop,,,,,,11,shop
+2,event agency,,,2,shop,,,,,,2,shop
+3,arch,,,3,graffiti,,,,,,3,traffic sign
+13,phone sign,,,13,shop,,,,,,13,restaurant
+12,American bar,,,12,restaurant,,,,,,12,bar
+11,tobaccheria,,,11,shop,,,,,,11,tobacco
+2,event agency,,,2,shop,,,,,,2,shop
+3,sign,,,3,graffiti,,,,,,3,traffic sign
+4,vegetable shop,,,4,grocery,,,,,,4,green grocery
+14,statue,,,14,graffiti,,,,,,14,graffiti
+13,phone sign,,,13,shop,,,,,,13,restaurant
+3,sign,,,3,graffiti,,,,,,3,traffic sign
+2,event agency ,,,2,shop,,,,,,2,shop
+1,,,,1,trattoria,,,,,,1,door

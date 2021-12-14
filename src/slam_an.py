@@ -20,6 +20,10 @@ now = datetime.now()
 
 dt_string = now.strftime("%d.%m.%Y %H:%M:%S")
 
+filename=rospy.get_param("/current_filename")
+fullpath="/home/mike/Output/Corrected/"+filename+"/arrays/"+dt_string
+
+
 def callback(vertices):
 
     arr=[]
@@ -27,8 +31,9 @@ def callback(vertices):
         arr.append([each.x,each.y,each.z])
 
 
-
-    np.save("/home/mike/Output/Uncorrected/arrays/"+dt_string,arr)
+    
+    os.makedirs(fullpath, exist_ok=True)
+    np.save(fullpath,arr)
   
   
         
@@ -47,7 +52,7 @@ if __name__=="__main__":
     # listener()
 
     # rospy.init_node('listener_new', anonymous=True)
-
+    
     
 
     listener()

@@ -1,0 +1,28 @@
+Intersection num,Recognized word
+1,trattoria
+2,shop
+3,graffiti
+4,grocery
+5,fishmarket
+6,traffic sign
+7,graffiti
+6,traffic sign
+7,graffiti
+1,trattoria
+2,shop
+1,trattoria
+10,grocery
+11,shop
+2,shop
+3,graffiti
+13,shop
+12,restaurant
+11,shop
+2,shop
+3,graffiti
+4,grocery
+14,graffiti
+13,shop
+3,graffiti
+2,shop
+1,trattoria

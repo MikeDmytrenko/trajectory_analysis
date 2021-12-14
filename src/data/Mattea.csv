@@ -1,0 +1,28 @@
+Intersection num,Recognized word
+1,traffic sign
+2,crowded
+3,graffiti
+4,bar
+5,shop
+6,fishmarket
+7,traffic sign
+6,fishmarket
+7,traffic sign
+1,traffic sign
+2,crowded
+1,traffic sign
+10,green grocery
+11,green grocery
+2,crowded
+3,graffiti
+13,restaurant
+12,bar
+11,green grocery
+2,crowded
+3,graffiti
+4,bar
+14,shop
+13,restaurant
+3,graffiti
+2,crowded
+1,traffic sign
