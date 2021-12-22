@@ -54,6 +54,10 @@ for eachName in dict2:
                 count=count+counter[each]-1
 
     Participant_list.append(Participant(eachName,dict2[eachName][:,0],dict2[eachName][:,1],count/max_cl_loops))
+
+extra_part='Uncorrected'
+
+Participant_list.append(Participant(extra_part,dict1[extra_part][:,0],dict1[extra_part][:,1],0))
 # %% 
 # Pre-proccess
 x_values=[]
@@ -92,7 +96,7 @@ for rect, label in zip(rects, labels):
 
 # Save the figure and show
 plt.tight_layout()
-plt.savefig('bar_plot_with_error_bars.png')
+plt.savefig('bar_plot_timed.png')
 plt.show()
 
 
@@ -119,7 +123,7 @@ for rect, label in zip(rects, labels):
 
 # Save the figure and show
 plt.tight_layout()
-plt.savefig('bar_plot_with_error_bars.png')
+plt.savefig('bar_plot_with_distance.png')
 plt.show()
 
 
