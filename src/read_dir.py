@@ -9,7 +9,7 @@ import os
 # %%
 i=0
 data=[]
-dir_name="/home/mike/Output/Corrected/Francesco.txt/arrays/"
+dir_name="/home/mike/Output/Uncorrected/arrays"
 for filename in os.listdir(dir_name):
     if filename.endswith(".npy"):
         array1=np.load(dir_name+"/"+filename)
@@ -20,15 +20,16 @@ for filename in os.listdir(dir_name):
 
 # %%
 #Plotting
-fig=plt.figure(figsize=(20, 20), dpi=200)
-ax1 = fig.add_subplot(111)
+
 data=np.array(data)
 for each in data:
+    fig=plt.figure(figsize=(20, 20), dpi=200)
+    ax1 = fig.add_subplot(111)
     rgb = np.random.rand(3,)
     ax1.scatter(each[:,0],each[:,1],s=10, c=rgb)
-    # plt.show()
+    plt.show()
 
 # plt.legend(loc='upper left')
-plt.show()
+# plt.show()
 
 # %%

@@ -21,6 +21,7 @@ now = datetime.now()
 dt_string = now.strftime("%d.%m.%Y %H:%M:%S")
 
 filename=rospy.get_param("/current_filename")
+# filename='test'
 fullpath="/home/mike/Output/Corrected/"+filename+"/arrays/"+dt_string
 
 
