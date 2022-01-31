@@ -18,7 +18,7 @@ array1=np.load("array.npy")
 array1=array1
 array1[:,2]=array1[:,2]-array1[0][2]
 result_dict={}
-# %% Loop
+# %% Loop, reads data for every participant from your data folder
 for Participant_name in os.listdir("/home/mike/Output/Corrected"):
 
 

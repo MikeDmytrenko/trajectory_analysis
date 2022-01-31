@@ -1,4 +1,6 @@
 #! /usr/bin/env python3
+
+# Program which saves poses of the nodes during the SLAM
 from typing import Sized
 from owlready2 import *
 import random
