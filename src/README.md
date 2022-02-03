@@ -3,7 +3,7 @@ Package can be used after exp_automated.bash script has finished and all poses w
 slam_an.py captures node poses from the bag file.
 
 Results_save.py processes this data into a dictionary with participant name and corresponding mean error values taken 
-with respect to time and with distance.
+with respect to time and with distance. Just remember to modify the path to your results folder.
 
 Error is calculated by taking a map which looks 'good enough' and then compairing every run with it. 
 Mean error with respect to time finds the nodes which are closest to each other in the time domain and then calculates the 
